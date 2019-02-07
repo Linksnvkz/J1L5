@@ -11,7 +11,7 @@ public class Main {
 
         Employee[] empArray = new Employee[5];
         empArray[0] = new Employee("Иванов Иван Иванович", "Инженер",
-                "ivivan@mailbox.com", "892312312", 30000, 30);
+                "ivivan@mailbox.com", "892312312", 30000, 27);
         empArray[1] = new Employee("Агаев Эльдар Ризванович", "IT-Специалист",
                 "dgulia_92@mail.ru", "88005553535", 30000, 25);
         empArray[2] = new Employee("Петров Петр Петрович", "Senior Java Developer",
