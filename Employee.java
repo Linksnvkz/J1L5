@@ -2,7 +2,7 @@ public class Employee {
     String fio = " ";
     String position = " ";
     String email = " ";
-    String pnumber = "";
+    String pnumber = " ";
     int salary = 0;
     int age = 0;
 
